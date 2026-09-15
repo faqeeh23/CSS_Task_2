@@ -621,6 +621,7 @@ body {
     border-radius: 40px;
     width: 50%;
     height: 20px;
+    background-color: white;
 
 }
 
@@ -764,7 +765,6 @@ body {
 }
 
 .item {
-    background-color: #eeeeee;
     padding: 8px;
     min-height: 180px;
 }
